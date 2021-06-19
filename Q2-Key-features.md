@@ -4,13 +4,11 @@
 
 * You don’t need to indicate the types of variables when you declare them.You can do things like x=111 and then x="I'm a string" without error
 
-* You can use Python in many areas. Web and big data applications, automation, scientific modeling and many more. It’s also often used as “`glue`” code to get other languages and components to work better.
+* You can use Python in many areas. Web and big data applications, automation, scientific modeling and many more. It’s also often used to fill the gaps in other programs written in another language
   
 * Writing Python code is quick but running it is often slower than compiled languages. Python allows the inclusion of C-based `extensions`, you can optimize your code with these extensions. The `Numpy` package is a good example of this, it’s really quick because python doesn't do much of the number processing.
 
 * Functions are first-class objects. This means that they can be assigned to variables, returned from other functions and passed into functions. Classes are also first class objects
-
-## Python is interpreted language. what does it mean?
 
 ## The first class objects are program entity which have these five characteristics:
 
@@ -20,9 +18,11 @@
 4. Can be return as a result from a function.
 5. Can have properties and methods
 
+## Python is interpreted language. what does it mean?
+
 ## Interpreted vs compiled language
 
-An interpreter executes the statements of code “one-by-one” while the compiler executes the code entirely and lists all possible errors at a time.
+An interpreter executes the statements of code “one-by-one” while the compiler executes the code entirely and lists all possible errors at the same time time.
 
 ### Interpreted (Python, ruby, JavaScript)
 
