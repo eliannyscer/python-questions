@@ -82,7 +82,7 @@ import random
 print(random.randint(1, 100)) 
 ```
 
-* `data time`: It is date and time object combinations.
+* `data time`: It is `date` and `time` object `combinations`.
 
 ```python
 import datetime
