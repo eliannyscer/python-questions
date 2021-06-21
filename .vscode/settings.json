@@ -1,5 +1,7 @@
 {
     "cSpell.words": [
-        "Numpy"
+        "Numpy",
+        "getcwd",
+        "randint"
     ]
 }
