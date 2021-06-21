@@ -2,7 +2,7 @@
 
 1. Memory management in python is managed by Python private space. All objects and data structures are located in a private place. The programmer does not have access,the python interpreter takes care of this instead.
 
-2. The object allocation and deallocation is done by Python’s memory manager so is automatic( the programmer have access to some tools to code).
+2. The object allocation and de-allocation is done by Python’s memory manager so is automatic (the programmer have access to some tools to code).
 
 3. Python has an garbage collector to recycle all the unused memory to make it available for other objects.
 
