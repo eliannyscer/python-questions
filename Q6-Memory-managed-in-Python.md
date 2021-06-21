@@ -4,7 +4,7 @@
 
 2. The object allocation and deallocation is done by Python’s memory manager so is automatic( the programmer have access to some tools to code).
 
-3. Python has an garbage collector to recycle all the unused memory to make it available for other objects
+3. Python has an garbage collector to recycle all the unused memory to make it available for other objects.
 
 `Example (Memory is an empty book)`
 
