@@ -1,6 +1,6 @@
 # Resume
 
-## Q6, Memory managed
+## Q6. Memory managed
 
 * The computer memory is like a empty book. Different writers want to write some story there but to do it they need to ask for permission to the book's manager because this show where they can write without over write the other story.
 * When anybody is reference or using the story somebody delete it to have more space for the new ones.
