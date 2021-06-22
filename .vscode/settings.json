@@ -3,5 +3,8 @@
         "Numpy",
         "getcwd",
         "randint"
+        "PYTHONPATH"
+        "himo"
+        "deallocation"
     ]
 }
