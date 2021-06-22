@@ -1,6 +1,6 @@
 # What is PYTHONPATH?
 
-It is an environment variable which is used when a module is imported (allow users to import modules that have not been installed yet),you can configure to add additional directories where python will look for modules and packages.
+It is an environment variable which is used when a module is imported (allow users to import modules that have not been installed yet), you can configure to add additional directories where python will look for modules and packages.
 For most installations, you should not configure these variables since they are not needed for Python to run. Python knows where to find its standard library.
 
 ## Additional information
