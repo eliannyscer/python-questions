@@ -32,7 +32,7 @@ It's the number of references that you have. A  reference is a name, it work as 
 
 * This increase the number of reference by 1:
 
-```python+
+```python
 E = 26
 
 # E ----> +1 reference (26)
