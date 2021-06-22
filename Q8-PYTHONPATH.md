@@ -14,7 +14,7 @@ def module_func():
     print("You just imported the module)
 ```
 
-Now if you try to import the_my_module.py you will have the following error:
+Now if you try to import `the_my_module.py` you will have the following error:
 
 ```python
 #Import the module
