@@ -76,10 +76,7 @@ A name is just a label for an object, each object can have lots of names and tho
 * Simple (eg.number or strings)
 * Containers ( eg.dict, list ,or classes)
 
-
 References:
-
-Memory managed:
 
 [Memory Management in Python-The Basics-PyCon-2016](https://www.youtube.com/watch?v=F6u5rhUQ6dU&t=429s)
 [Garbage collection and reference counting](https://www.geeksforgeeks.org/memory-management-in-python/)
