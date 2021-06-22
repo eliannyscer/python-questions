@@ -9,7 +9,7 @@ Namespaces make our programs immune from name conflicts
 `Example`
 
 The role of a namespace is like a surname. Maybe we would not find a single “Ellie” in a class because there is  multiple “Ellie” but when you particularly ask for “Ellie Collins” or “Ellie Clark” (with a surname), there will be only one (Probably).
-But what happen if the name and surname are same for multiple students?. The Python interpreter understands what exact method or variable we are trying to find  in the code. `So, the division of the word itself gives a little more information`. Name (means a unique identifier) + Space(the  path to the file,the location from where is trying to access a variable or a method).
+But what happen if the name and surname are same for multiple students?. The Python interpreter understands what exact method or variable we are trying to find  in the code. `So, the division of the word itself gives a little more information`. Name (means a unique identifier) + Space(the path to the file,the location from where is trying to access a variable or a method).
 
 ## Additional information
 
@@ -33,7 +33,7 @@ Output:
 Volkswagen
 ```
 
-*`Scope of the module which has global names`. In this example, I have defined function vehicle namespace, Bicycle namespace is defined outside the function() vehicle, so the Bicycle = “Himo” is a global namespace.
+*`Scope of the module which has global names`. In this example, I have defined function vehicle namespace, Bicycle namespace is defined outside the `function()` vehicle, so the `Bicycle = “Himo”` is a global namespace.
 It can also be printed inside the function.
 
 ```python
@@ -60,7 +60,7 @@ Output:
 Ellie
 ```
 
-`Summary`
+## Summary
 
 * When a reference is made inside a function, the name is searched in the local namespace, then in the global namespace and finally in the built-in namespace.
 
