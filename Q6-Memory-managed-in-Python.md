@@ -42,7 +42,7 @@ E = 26
 K = 26
 
 # E ----> +1 reference (26)
-# K ----> +1 reference(26)
+# K ----> +1 reference (26)
 # Reference count: 2
 ```
 
