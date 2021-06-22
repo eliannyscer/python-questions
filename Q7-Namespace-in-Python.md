@@ -33,7 +33,7 @@ Output:
 Volkswagen
 ```
 
-*`Scope of the module which has global names`. In this example, I have defined function vehicle namespace, Bicycle namespace is defined outside the function() vehicle, so the Bicycle = “Himo” is a global namespace.
+*`Scope of the module which has global names`. In this example, I have defined function vehicle namespace, Bicycle namespace is defined outside the `function()` vehicle, so the `Bicycle = “Himo”` is a global namespace.
 It can also be printed inside the function.
 
 ```python
