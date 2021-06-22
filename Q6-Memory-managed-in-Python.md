@@ -1,10 +1,10 @@
 # How is memory managed in Python?
 
-1. Memory management in python is managed by Python private space. All objects and data structures are located in a private place. The programmer does not have access,the python interpreter takes care of this instead.
+1. Memory management in python is managed by Python private space. All objects and data structures are located in a private place. The programmer does not have access, the python interpreter takes care of this instead.
 
-2. The object allocation and deallocation is done by Python’s memory manager so is automatic( the programmer have access to some tools to code).
+2. The object allocation and de-allocation is done by Python’s memory manager so is automatic (the programmer have access to some tools to code).
 
-3. Python has an garbage collector to recycle all the unused memory to make it available for other objects
+3. Python has an garbage collector to recycle all the unused memory to make it available for other objects.
 
 `Example (Memory is an empty book)`
 
@@ -22,19 +22,15 @@ Additionally you can thing in the `reference` like the number of the page in the
 
 Python uses `two` strategies for memory allocation:
 
-1.Garbage collection:
+1. `Garbage collection` - python has an garbage collector to recycle all the unused memory to make it available for other objects.
 
-Python has an garbage collector to recycle all the unused memory to make it available for other objects
-
-2.Reference counting:
-
-It's the number of references that you have. A  reference is a name, it work as container object pointing at another object.
+2. `Reference counting` - it's the number of references that you have. A  reference is a name, it work as container object pointing at another object.
 
 ### How we can increase the reference counter?
 
 * This increase the number of reference by 1:
 
-```python+
+```python
 E = 26
 
 # E ----> +1 reference (26)
@@ -48,7 +44,7 @@ E = 26
 K = 26
 
 # E ----> +1 reference (26)
-# K ----> +1 reference(26)
+# K ----> +1 reference (26)
 # Reference count: 2
 ```
 
@@ -69,7 +65,7 @@ Knowing about memory management helps you write more efficient code.
 
 Name --> References --> Objects
 
-A name is just a label for an object, each object can have lots of names and those names reference that objects. A  reference is a name , container object pointing at another object.
+A `name` is just a label for an object, each object can have lots of names and those names reference that objects. A reference is a name, container object pointing at another object.
 
 ### Different types of objects
 
@@ -78,8 +74,22 @@ A name is just a label for an object, each object can have lots of names and tho
 
 References:
 
+<<<<<<< HEAD
 [Memory Management in Python-The Basics-PyCon-2016](https://www.youtube.com/watch?v=F6u5rhUQ6dU&t=429s)
 [Garbage collection and reference counting](https://www.geeksforgeeks.org/memory-management-in-python/)
 [How is the memory managed](https://www.i2tutorials.com/how-is-memory-managed-in-python/)
 [Memory as a empty book](https://realpython.com/python-memory-management/ç)
 [Garbage collection](https://www.geeksforgeeks.org/garbage-collection-python)
+=======
+Memory managed:
+
+https://www.youtube.com/watch?v=F6u5rhUQ6dU&t=429s
+
+https://www.geeksforgeeks.org/memory-management-in-python/
+
+https://www.i2tutorials.com/how-is-memory-managed-in-python/
+
+[Memory as a empty book](https://realpython.com/python-memory-management/)
+
+[Garbage collection](https://www.geeksforgeeks.org/garbage-collection-python/)
+>>>>>>> e80a17c97a8107be6aa5ef4fd5e3df0b61b03a3f
