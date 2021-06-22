@@ -1,0 +1,26 @@
+# What is __init__?
+
+All classes have a function called __init__(), is always executed when  class is initiated. The method is useful to do any initialization you want to do with your object.
+
+`Example:`
+
+```python
+class Person:
+  def __init__(self, name, age):
+    self.name = name
+    self.age = age
+
+p = Person("Ellie", 30)
+
+print(p.name)
+print(p.age) 
+
+#Output:
+Ellie
+30
+```
+
+## Reference
+
+[Example](https://www.w3schools.com/python/gloss_python_class_init.asp)
+[Definition](https://www.geeksforgeeks.org/__init__-in-python/)

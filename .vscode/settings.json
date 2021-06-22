@@ -2,9 +2,10 @@
     "cSpell.words": [
         "Numpy",
         "getcwd",
-        "randint"
-        "PYTHONPATH"
-        "himo"
+        "randint",
+        "PYTHONPATH",
+        "helloworld",
+        "himo",
         "deallocation"
     ]
 }
