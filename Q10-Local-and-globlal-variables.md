@@ -4,7 +4,9 @@
 
 Variables declared outside a function or in global space are called global variables. These variables can be accessed by any function in the program.
 
-Example. We will create a global variable:
+## Example
+
+We will create a global variable:
 
 ```python
 e = 30
@@ -41,4 +43,3 @@ calculation()
 ```
 
 Note: A local variable can't access to a global variable.
-
