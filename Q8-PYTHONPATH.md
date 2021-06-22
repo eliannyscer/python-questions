@@ -35,6 +35,6 @@ The environment variables influence Python’s behavior and Provide a great way 
 
 References:
 
-https://www.tutorialspoint.com/What-is-PYTHONPATH-environment-variable-in-Python
+[Pythonpath definition](https://www.tutorialspoint.com/What-is-PYTHONPATH-environment-variable-in-Python)
 
-example: https://www.geeksforgeeks.org/pythonpath-environment-variable-in-python/
+[Pythonpath example](https://www.geeksforgeeks.org/pythonpath-environment-variable-in-python/)
