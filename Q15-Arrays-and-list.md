@@ -2,7 +2,7 @@
 
 They are similar because an array is also a data structure that stores a collection of items. Like lists, arrays are ordered, mutable, enclosed in square brackets, and able to store non-unique items.
 
-So arrays and lists, have `the same way of storing data`. But, arrays can hold `only a single data type` elements while lists can hold `any data type` elements.
+Arrays and lists, have `the same way of storing data`. But, arrays can hold `only a single data type` elements while lists can hold `any data type` elements.
 
 ```python
 import array as arr
