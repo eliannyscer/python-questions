@@ -22,7 +22,7 @@ Additionally you can thing in the `reference` like the number of the page in the
 
 Python uses `two` strategies for memory allocation:
 
-1. `Garbage collection` - python has an garbage collector to recycle all the unused memory to make it available for other objects.
+1. `Garbage collection` - python has an garbage collector to recycle all the unused memory and make it available for other objects.
 
 2. `Reference counting` - it's the number of references that you have. A  reference is a name, it work as container object pointing at another object.
 
@@ -65,12 +65,12 @@ Knowing about memory management helps you write more efficient code.
 
 Name --> References --> Objects
 
-A `name` is just a label for an object and each object can have lots of names and those names reference that objects. A reference is a name or container object pointing at another object.
+A `name` is just a label for an object and each object can have lots of names and those names reference that objects. A reference is a name or a container object pointing at another object.
 
 ### Different types of objects
 
 * Simple (eg.number or strings)
-* Containers ( eg.dict, list ,or classes)
+* Containers ( eg.dictionary, list or classes)
 
 References:
 
