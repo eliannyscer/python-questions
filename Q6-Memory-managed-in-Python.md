@@ -20,13 +20,9 @@ When no one reads or references the stories, they are `removed` for somebody to 
 
 Python uses `two` strategies for memory allocation:
 
-1.Garbage collection:
+1. `Garbage collection` - python has an garbage collector to recycle all the unused memory to make it available for other objects.
 
-Python has an garbage collector to recycle all the unused memory to make it available for other objects
-
-2.Reference counting:
-
-It's the number of references that you have. A  reference is a name, it work as container object pointing at another object.
+2. `Reference counting` - it's the number of references that you have. A  reference is a name, it work as container object pointing at another object.
 
 ### How we can increase the reference counter?
 
