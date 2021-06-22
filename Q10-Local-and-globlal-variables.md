@@ -1,10 +1,10 @@
 # What are local variables and global variables in Python?
 
-* Global Variables:
+Variables declared outside of the function or in the global space are called global variables. These variables can be accessed by any function in the program.
 
-Variables declared outside a function or in global space are called global variables. These variables can be accessed by any function in the program.
+## Example
 
-Example. We will create a global variable:
+We will create a global variable:
 
 ```python
 e = 30
@@ -40,5 +40,4 @@ def calculation():
 calculation()
 ```
 
-Note: A local variable can't access to a global variable.
-
+`Note:` A local variable can't access to a global variable.
