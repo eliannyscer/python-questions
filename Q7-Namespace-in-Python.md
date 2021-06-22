@@ -60,7 +60,7 @@ Output:
 Ellie
 ```
 
-`Summary`
+## Summary
 
 * When a reference is made inside a function, the name is searched in the local namespace, then in the global namespace and finally in the built-in namespace.
 
