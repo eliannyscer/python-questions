@@ -16,6 +16,8 @@ When no one reads or references the stories, they are `removed` for somebody to 
 
 `The authors` are like `different applications` or processes that need to store data in memory. `The manager`, who decides where the authors can write in the book, plays the role of a `memory manager` . The person `who removed` the old stories to make room for new ones is a `garbage collector`.
 
+Additionally you can thing in the `reference` like the number of the page in the book where you can find the story (the reference is the address where you can to locate the story).
+
 ## Additional information
 
 Python uses `two` strategies for memory allocation:
@@ -79,14 +81,8 @@ References:
 
 Memory managed:
 
-https://www.youtube.com/watch?v=F6u5rhUQ6dU&t=429s
-
-https://www.geeksforgeeks.org/memory-management-in-python/
-
-https://www.i2tutorials.com/how-is-memory-managed-in-python/
-
-memory as a empty book:
-https://realpython.com/python-memory-management/ç
-
-Garbage collection:
-https://www.geeksforgeeks.org/garbage-collection-python/
+[Memory Management in Python-The Basics-PyCon-2016](https://www.youtube.com/watch?v=F6u5rhUQ6dU&t=429s)
+[Garbage collection and reference counting](https://www.geeksforgeeks.org/memory-management-in-python/)
+[How is the memory managed](https://www.i2tutorials.com/how-is-memory-managed-in-python/)
+[Memory as a empty book](https://realpython.com/python-memory-management/ç)
+[Garbage collection](https://www.geeksforgeeks.org/garbage-collection-python)
