@@ -104,8 +104,10 @@ import JSON
 
 References:
 
-https://www.w3schools.com/python/python_modules.asp
-https://www.geeksforgeeks.org/python-sys-module/
-https://duckduckgo.com/?t=ffab&q=data+time+module+in+python&ia=web
-https://www.w3schools.com/python/python_json.asp
-https://www.geeksforgeeks.org/os-module-python-examples/
+[Python modules](https://www.w3schools.com/python/python_modules.asp)
+[Sys module](https://www.geeksforgeeks.org/python-sys-module/)
+[Data time module](https://duckduckgo.com/?t=ffab&q=data+time+module+in+python&ia=web)
+[JSON module](https://www.w3schools.com/python/python_json.asp)
+[Os module](https://www.geeksforgeeks.org/os-module-python-examples/)
+[Math module](https://www.w3schools.com/python/module_math.asp)
+[Random module](https://www.educba.com/random-module-in-python/)
