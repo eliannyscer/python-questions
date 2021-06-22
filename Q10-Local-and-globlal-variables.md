@@ -42,4 +42,4 @@ def calculation():
 calculation()
 ```
 
-Note: A local variable can't access to a global variable.
+`Note:` A local variable can't access to a global variable.
