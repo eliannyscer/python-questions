@@ -65,7 +65,7 @@ Knowing about memory management helps you write more efficient code.
 
 Name --> References --> Objects
 
-A `name` is just a label for an object, each object can have lots of names and those names reference that objects. A reference is a name, container object pointing at another object.
+A `name` is just a label for an object and each object can have lots of names and those names reference that objects. A reference is a name or container object pointing at another object.
 
 ### Different types of objects
 
