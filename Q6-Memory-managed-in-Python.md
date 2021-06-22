@@ -87,5 +87,4 @@ https://www.i2tutorials.com/how-is-memory-managed-in-python/
 
 [Memory as a empty book](https://realpython.com/python-memory-management/)
 
-Garbage collection:
-https://www.geeksforgeeks.org/garbage-collection-python/
+[Garbage collection](https://www.geeksforgeeks.org/garbage-collection-python/)
