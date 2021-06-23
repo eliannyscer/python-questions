@@ -23,4 +23,5 @@ Ellie
 ## Reference
 
 [Example](https://www.w3schools.com/python/gloss_python_class_init.asp)
+
 [Definition](https://www.geeksforgeeks.org/__init__-in-python/)
