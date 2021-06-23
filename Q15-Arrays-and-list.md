@@ -17,7 +17,7 @@ Output:
 array(‘i’, [1, 2, 3, 4]) [1, ‘abc’, 1.2]
 ```
 
-## Other different
+## Other differences
 
 * Arrays need to be declared is you are sing in Python.
 * Arrays can store data  more efficient in special for storing large amounts of data.
