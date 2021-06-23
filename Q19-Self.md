@@ -45,5 +45,7 @@ print("Laptop Two:" ,laptop_two.company + " - " + laptop_two.model)
 ## references
 
 [Self definition](https://www.w3schools.com/python/gloss_python_self.asp)
+
 [Self in python class](https://www.geeksforgeeks.org/self-in-python-class/)
+
 [Example](https://www.edureka.co/blog/self-in-python/)
