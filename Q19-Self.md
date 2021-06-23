@@ -42,7 +42,7 @@ print("Laptop One: ", laptop_one.company + " - " + laptop_one.model)
 print("Laptop Two:" ,laptop_two.company + " - " + laptop_two.model)
 ```
 
-## references
+## References
 
 [Self definition](https://www.w3schools.com/python/gloss_python_self.asp)
 
