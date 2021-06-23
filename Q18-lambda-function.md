@@ -64,5 +64,7 @@ lambda parameters: expression
 ## References
 
 [What is lambda function?](https://mytrashcode.com/what-is-lambda-in-python#What_is_lambda_in_Python)
+
 [Lambda comparison - video](https://realpython.com/lessons/what-is-lambda-function/)
+
 [Lambda syntax](https://techvidvan.com/tutorials/lambda-expression-in-python/)
