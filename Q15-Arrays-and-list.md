@@ -4,6 +4,8 @@ They are similar because an array is also a data structure that stores a collect
 
 Arrays and lists, have `the same way of storing data`. But, arrays can hold `only a single data type` elements while lists can hold `any data type` elements.
 
+`Example:`
+
 ```python
 import array as arr
 My_Array=arr.array('i',[1,2,3,4])
