@@ -38,5 +38,6 @@ print(tuple)
 
 ## References
 
-[Difference](https://www.tutorialspoint.com/difference-between-list-and-tuples-in-python)
+[Differences](https://www.tutorialspoint.com/difference-between-list-and-tuples-in-python)
+
 [Similarities](https://www.tutorialspoint.com/What-are-the-differences-and-similarities-between-tuples-and-lists-in-Python)
