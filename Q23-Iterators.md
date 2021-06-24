@@ -19,8 +19,6 @@ Iterator
 
 ## Additional information
 
-___
-
 ## Iterator protocol
 
 `__iter__` - This method  is called for the initialization of an iterator. This returns an iterator object.
