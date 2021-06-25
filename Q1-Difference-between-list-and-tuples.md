@@ -14,8 +14,8 @@
 supermarket_list = ["Cereal", "bread", "avocado", "beef"]
 print(supermarket_list)
 
-#Output:
-['Cereal', 'bread', 'avocado', 'beef']
+# Output:
+# ['Cereal', 'bread', 'avocado', 'beef']
 ```
 
 ## TUPLES
