@@ -1,6 +1,6 @@
 # How will you convert a string to all lowercase?
 
-* To convert String to lowercase, you can use lower() function on the String. `String.lower()` function returns a string with all the characters of this string converted to lower case.
+* To convert String to lowercase, you can use `lower()` function on the String. `String.lower()` function returns a string with all the characters of this string converted to lower case.
 
 * Syntax - `string.lower()`
 
