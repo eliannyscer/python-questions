@@ -15,7 +15,7 @@ import random
 x = random.random()
 print(x) 
 
-#Output:
+# Output:
 0.4218281360071646
 ```
 
