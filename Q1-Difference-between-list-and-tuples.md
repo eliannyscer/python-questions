@@ -2,7 +2,7 @@
 
 ## LIST
 
-`Type` - Are mutable they can be edited, is possible update or delete an item from the list.
+`Type` - Are mutable (can be edited), it is possible update or delete an item from the list.
 
 `Iteration` - It is slower than tuples.
 
