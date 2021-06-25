@@ -10,7 +10,7 @@ numbers = [1, 2, 3, 4, 5, 6,]
 random.shuffle(numbers)
 print(numbers)
 
-#Output:
+# Output:
 [4, 3, 6, 1, 5, 2]
 ```
 
