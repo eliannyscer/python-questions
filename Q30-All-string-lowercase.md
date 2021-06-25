@@ -9,7 +9,7 @@ txt = "A - B - C - D - E - F"
 x = txt.lower()
 print(x) 
 
-#Output:
+# Output:
 a - b - c - d - e - f
 ```
 
