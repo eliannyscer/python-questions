@@ -13,7 +13,7 @@ txt = "hello!"
 x = txt.capitalize()
 print (x)
 
-#Output:
+# Output:
 Hello!
 ```
 
@@ -26,7 +26,7 @@ txt = "heLLO!"
 x = txt.capitalize()
 print (x)
 
-#Output:
+# Output:
 Hello!
 ```
 
@@ -47,7 +47,7 @@ txt = "hello, I am ellie!"
 x = txt.upper()
 print(x) 
 
-#Output:
+# Output:
 HELLO, I AM ELLIE!
 ```
 
