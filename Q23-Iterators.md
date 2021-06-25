@@ -13,7 +13,7 @@ my_obj = {"Python", "Iterator"}
 iter_obj = iter(my_obj)
 print(next(iter_obj))
 
-#Output:
+# Output:
 Iterator
 ```
 
