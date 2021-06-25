@@ -12,7 +12,7 @@ def simple_generator():
 for value in simple_generator(): 
     print(value)
 
-#Output:
+# Output:
 1
 2
 3
