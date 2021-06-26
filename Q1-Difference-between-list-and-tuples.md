@@ -2,12 +2,42 @@
 
 ## LIST
 
-* Are mutable they can be edited
-* Are slower than tuples
-* You use square bracket in the syntax: list = ["Ellie", 33, 7]
+`Type` - Are mutable (can be edited), it is possible update or delete an item from the list.
+
+`Iteration` - It is slower than tuples.
+
+`Syntax` - You use square bracket.
+
+`Example:`
+
+```python3
+supermarket_list = ["Cereal", "bread", "avocado", "beef"]
+print(supermarket_list)
+
+# Output:
+# ['Cereal', 'bread', 'avocado', 'beef']
+```
 
 ## TUPLES
 
-* Are immutable (tuples are lists which can’t be edited)
-* Are faster than list
-* You use round brackets in the syntax: tuple = ("Ellie", 33, 7)
+`Type` - Are immutable, if you try to modify as a result you will have an error.
+
+`Iteration` - It is faster than list.
+
+`Syntax` - You use round brackets.
+
+`Example:`
+  
+```python3
+tuple = ("Cereal", "bread", "avocado", "beef")
+print(tuple)
+
+# Output:
+# ('Cereal', 'bread', 'avocado', 'beef')
+```
+
+## References
+
+[Differences](https://www.tutorialspoint.com/difference-between-list-and-tuples-in-python)
+
+[Similarities](https://www.tutorialspoint.com/What-are-the-differences-and-similarities-between-tuples-and-lists-in-Python)
