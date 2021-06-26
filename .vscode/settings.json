@@ -2,6 +2,7 @@
     "cSpell.words": [
         "Numpy",
         "PYTHONPATH",
+        "builtins",
         "deallocation",
         "docstrings",
         "getcwd",
