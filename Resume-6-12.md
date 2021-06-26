@@ -2,7 +2,7 @@
 
 ## Q6. Memory managed
 
-* The computer memory is like a empty book. Different writers want to write some story there but to do it they need to ask for permission to the book's manager because this show where they can write without over write the other story.
+* The computer memory is like a empty book. Different writers want to write a story, but to do it they need to ask for permission to the book's manager because only he can show where they can write without over write the other story.
 * When anybody is reference or using the story somebody delete it to have more space for the new ones.
 * `The writer` are the `applications`, `the book's manager` is the `memory manager` and the person that `remove` the story is the `garbage collection`.
 * Additionally you can think in the `reference` like the `number of the page` in the book where you can find the story(address).
