@@ -32,8 +32,8 @@ print(supermarket_list)
 tuple = ("Cereal", "bread", "avocado", "beef")
 print(tuple)
 
-#Output:
-('Cereal', 'bread', 'avocado', 'beef')
+# Output:
+# ('Cereal', 'bread', 'avocado', 'beef')
 ```
 
 ## References
