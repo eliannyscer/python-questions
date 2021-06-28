@@ -10,7 +10,7 @@ Python modules are not always de-allocated when Python exits.
 
 * On exit, because of having its own efficient cleanup mechanism, Python would try to de-allocate/destroy every other object.
 
-## Reference
+## References
 
 [Memory de-allocated](https://www.edureka.co/community/10857/whenever-you-exit-python-is-all-memory-de-allocated)
 
