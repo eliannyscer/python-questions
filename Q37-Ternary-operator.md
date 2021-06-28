@@ -40,7 +40,7 @@ else:
 'x' is grater than 'y', x = 10
 ```
 
-## Reference
+## References
 
 [Ternary operator](https://www.geeksforgeeks.org/ternary-operator-in-python/)
 
