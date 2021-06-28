@@ -4,7 +4,7 @@
 
 * It is a collection which is ordered, changeable and does not allow duplicates.
 
-`Example` - Printing 1 value:
+`Example-1` - Printing 1 value:
 
 ```python
 phone_book = {"Name": "Ellie","Surname": "Brown","Number_phone": "654 789 9543"}
@@ -14,7 +14,7 @@ print(phone_book["Number_phone"])
 654 789 9543
 ```
 
-`Example` - Other way tho organize the dictionary:
+`Example-2` - Other way tho organize the dictionary:
 
 ```python
 phone_book = {"Name": "Ellie",
