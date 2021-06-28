@@ -8,6 +8,7 @@
         "getcwd",
         "helloworld",
         "himo",
+        "kwargs",
         "randint"
     ]
 }
