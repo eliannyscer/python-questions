@@ -32,7 +32,7 @@ Both are written using multiline strings but they are not completely same:
 
 `Docstring` -This are used to associate the documentation with the objects like classes, methods and functions in python and they describe what the object does.
 
-## Reference
+## References
 
 [Docstrings](https://www.geeksforgeeks.org/python-docstrings/)
 
