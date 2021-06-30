@@ -1,8 +1,18 @@
 # Explain split(), sub(), subn() methods of “re” module in Python
 
+## `Regular expression`
+
+A Regular Expression or (RegEX) is a stream of characters that forms a pattern.
+Whether a string contains this pattern or not can be detected with the help of Regular Expressions.
+It’s very easy to create and use Regular Expressions in Python- by importing re module.
+
+```python
+import
+```
+
 ## split()
 
-This function splits the string.The split method should be imported before using it in the program.
+This function splits the string.It should be imported before using it in the program.
 
 `Example-1:`
 
@@ -18,7 +28,7 @@ print(split("\W+", "Words, words , Words"))
 
 ```python
 from re import split
-# If ypu don't use this "\W+" 
+# If you don't use this "\W+" 
 # you will have a error 
 # because is part of the function
 print(split("Words, words , Words"))
@@ -29,16 +39,65 @@ TypeError: split() missing 1 required positional argument: 'string'
 
 ## Sub()
 
-This function stands for the substring in which a certain regular expression pattern is searched in the given string (3rdparameter). When it finds the substring, the pattern is replaced by repl (2ndparameter). The count checks and maintains the number of times this has occurred.
+This function find all the substring where  a certain regular expression matches and then replace them with a different string.
+
+`Syntax`: - re.sub(pattern, repl, string, count=0, flags=0). `count` and `flags` are optionals.
+
+```python
+import re
+
+pattern = "[0-9]+"
+repl = "NN"
+string = "Account Number - 12345, Amount - 586.32"
+
+print("Original string:")
+print(string)
+
+result = re.sub(pattern, repl, string)
+
+print("After replacing:")
+print(result)
+```
+
+```text
+# Output:
+
+Account Number - 12345, Amount - 586.32
+After replacing:
+Account Number - NN, Amount - NN.NN
+```
 
 ## subn()
 
 This function is similar to `sub()` but the output is different. It returns a tuple with count of total of all the replacements.
 
+```python
+import re
+
+def add(m):
+    # Convert.
+    v = int(m.group(0))
+    # Add 2.
+    return str(v + 1)
+
+# Call re.subn.
+result = re.subn("\d+", add, "1 2 3 4 5")
+
+print("Result string:", result[0])
+print("Number of substitutions:", result[1])
+
+Output
+
+Result string: 11 21 31 41 51
+Number of substitutions: 5
+```
+
 ## References
 
 [Official python documentation](https://docs.python.org/3/library/re.html?highlight=sub#re.sub)
 
+[Sub-Example](https://pythonexamples.org/python-re-sub/)
+
 [Subn](https://www.quora.com/What-are-split-sub-and-subn-methods-in-Python?share=1)
 
-[](https://www.i2tutorials.com/explain-split-sub-subn-methods-of-re-module-in-python/)
+[Regular expression](https://www.codespeedy.com/re-sub-in-python/)
