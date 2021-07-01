@@ -1,6 +1,6 @@
 # What are python modules? Name some commonly used built-in modules in Python?
 
-A Python module is a `.py` file containing executable code or a set of functions you want to include in your application.
+A Python module is a `.py` file containing executable code or a set of functions you want to include in your application. In short words It is a Python file containing Python statements and definitions.
 
 Some of the commonly used modules are:
 
