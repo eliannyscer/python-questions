@@ -1,4 +1,4 @@
-# Does Python have OOps concepts?
+# Does Python have oops concepts?
 
 Yes, like other general purpose programming languages`(Java, C++. C#, Ruby)`, Python is also an `object-oriented` language. It allows us to design programs using classes and objects.
 
@@ -6,7 +6,11 @@ The object is related to real-word entities such as book, house, pencil, etc. Th
 
 ## Additional information
 
-Object Oriented Programming (OOP). In order for a programming language to be object-oriented, it should have a mechanism to enable working with classes and objects.
+`Object Oriented Programming (OOP)` - In order for a programming language to be object-oriented, it should have a mechanism to enable working with classes and objects.
+
+`Class` - The class can be defined as a collection of objects. It is a logical entity that has some specific attributes and methods.
+
+`Object` - Everything in Python is an object. When we define a class, it needs to create an object to allocate the memory.
 
 ## Reference
 
