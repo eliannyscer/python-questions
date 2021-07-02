@@ -1,11 +1,12 @@
 {
     "cSpell.words": [
+        "Labas",
         "Numpy",
-        "getcwd",
-        "randint",
         "PYTHONPATH",
+        "deallocation",
+        "getcwd",
         "helloworld",
         "himo",
-        "deallocation"
+        "randint"
     ]
 }
