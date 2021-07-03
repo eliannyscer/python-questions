@@ -13,7 +13,7 @@ Python has a multi-threading package but if you want to multi-thread to speed yo
 
 `What is Thread?` - It is a sequence of instructions that operating system executes independently. Using thread improves execution time, and is very useful when we need to perform multiple tasks at the same time
 
-## Reference
+## References
 
 [Multithreading](https://www.quora.com/How-is-multithreading-achieved-in-Python-Whenever-Python-exits-why-isn-t-all-the-memory-deallocated?share=1)
 
