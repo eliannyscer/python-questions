@@ -62,6 +62,7 @@ print(result)
 ```text
 # Output:
 
+Original string:
 Account Number - 12345, Amount - 586.32
 After replacing:
 Account Number - NN, Amount - NN.NN
