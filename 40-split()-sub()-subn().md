@@ -1,6 +1,6 @@
 # Explain split(), sub(), subn() methods of “re” module in Python
 
-## `Regular expression`
+## Regular expression
 
 A Regular Expression or (RegEX) is a stream of characters that forms a pattern.
 Whether a string contains this pattern or not can be detected with the help of Regular Expressions.
