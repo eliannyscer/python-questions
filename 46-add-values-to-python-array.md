@@ -2,7 +2,7 @@
 
 ## Append
 
-`Syntax` - list.insert(element).
+`Syntax` - `list.insert(element)`.
 
 With this method, you can add a single element `to the end` of a list.
 
@@ -59,4 +59,3 @@ print(consonants)
 [List extend](https://www.w3schools.com/python/ref_list_insert.asp)
 
 [Examples](https://www.freecodecamp.org/news/python-list-append-how-to-add-an-element-to-an-array-explained-with-examples/)
-
