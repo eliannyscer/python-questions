@@ -1,6 +1,6 @@
 # What does len() do?
 
-It is used to determine the length of a string, a list, an array, etc, this mean that returns the number of items in an object.
+It is used to determine the length of a string, list, array and etc, this mean that returns the number of items in an object.
 
 `Example-1:`
 
