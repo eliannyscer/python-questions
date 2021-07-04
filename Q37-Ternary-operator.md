@@ -5,7 +5,7 @@ Also known as `conditional expressions`. It is used to return a value based on t
 `Example-1` - Using ternary operator:
 
 ```python
-x= 5
+x = 5
 y = 6
 print("x" if x > y else "y")
 
