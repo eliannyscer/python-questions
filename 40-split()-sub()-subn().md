@@ -3,11 +3,11 @@
 ## Regular expression
 
 A Regular Expression or (RegEX) is a stream of characters that forms a pattern.
-Whether a string contains this pattern or not can be detected with the help of Regular Expressions.
+Whether a string contains this pattern or not can be detected with the help of regular expressions.
 It’s very easy to create and use Regular Expressions in Python - by importing `re` module.
 
 ```python
-import
+import re
 ```
 
 ## split()
