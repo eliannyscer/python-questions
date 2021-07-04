@@ -12,7 +12,7 @@ The object is related to real-word entities such as book, house, pencil, etc. Th
 
 `Object` - Everything in Python is an object. When we define a class, it needs to create an object to allocate the memory.
 
-## Reference
+## References
 
 [Python oops concepts](https://www.javatpoint.com/python-oops-concepts)
 
