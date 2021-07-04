@@ -6,7 +6,7 @@ It is a container where you can save one o more relevant modules to organize. To
 
 Suppose that you need to develop a large application.The app will have many modules. When the number of modules grows, it’ll become difficult to keep all of them in one location. This is where packages come into play.
 
-![alt text](https://www.pythontutorial.net/wp-content/uploads/2020/10/Python-Packages.png)
+![Python-Packages.png](https://www.pythontutorial.net/wp-content/uploads/2020/10/Python-Packages.png)
 
 ## Additional information
 
