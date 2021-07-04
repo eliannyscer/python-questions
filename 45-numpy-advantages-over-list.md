@@ -1,6 +1,6 @@
 # What advantages do NumPy arrays offer over (nested) Python lists?
 
-NumPy is a Python extension module and fundamental package for `scientific computing` . The arrays facilitate `advanced mathematical` and other types of operations on large numbers of data. The operations are executed more efficiently and with `less code` than using Python. It provides fast and efficient operations on arrays
+[NumPy](https://numpy.org/) is a Python extension module and fundamental package for `scientific computing` . The arrays facilitate `advanced mathematical` and other types of operations on large numbers of data. The operations are executed more efficiently and with `less code` than using Python. It provides fast and efficient operations on arrays.
 
 `Advantages:`
 
