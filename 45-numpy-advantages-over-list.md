@@ -10,7 +10,7 @@
 
 * NumPy is not just more efficient; it is also `more convenient`. You get a lot of vector and matrix operations for free, which sometimes allow one to avoid unnecessary work. And they are also efficiently implemented using less code, this mean that you will use less memory.
 
-* NumPy array is `faster` and You get a lot built in with NumPy,fast searching, basic statistics, linear algebra, histograms, etc.
+* NumPy array is `faster` and You get a lot built in with NumPy, fast searching, basic statistics, linear algebra, histograms, etc.
 
 ## References
 
