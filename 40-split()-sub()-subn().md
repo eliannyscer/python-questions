@@ -4,7 +4,7 @@
 
 A Regular Expression or (RegEX) is a stream of characters that forms a pattern.
 Whether a string contains this pattern or not can be detected with the help of Regular Expressions.
-It’s very easy to create and use Regular Expressions in Python- by importing re module.
+It’s very easy to create and use Regular Expressions in Python - by importing `re` module.
 
 ```python
 import
