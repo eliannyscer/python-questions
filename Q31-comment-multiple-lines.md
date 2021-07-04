@@ -14,7 +14,7 @@ print("Hello, World!")
 Hello, World!
 ```
 
-Other way to do it is adding a multiline string (triple quotes or three single quotes) in your code, and place your comment inside it, you can do it because python  ignore string that are not assigned to a variable.
+Other way to do it is adding a multi-line string (triple quotes or three single quotes) in your code, and place your comment inside it, you can do it because python ignore string that are not assigned to a variable.
 
 `Example:`
 
