@@ -4,7 +4,7 @@
 
 `Advantages:`
 
-* Python’s lists are efficient general-purpose containers. They support  efficient insertion, deletion, appending, and concatenation, and Python’s list comprehensions make them easy to construct and manipulate.
+* Python’s lists are efficient general-purpose containers. They support  efficient insertion, deletion, appending, and concatenation and Python’s list comprehensions make them easy to construct and manipulate.
   
 * They have certain limitations: they `don’t support vectorized` operations like addition and multiplication.
 
