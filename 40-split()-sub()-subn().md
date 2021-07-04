@@ -7,7 +7,7 @@ Whether a string contains this pattern or not can be detected with the help of R
 It’s very easy to create and use Regular Expressions in Python - by importing `re` module.
 
 ```python
-import
+import re
 ```
 
 ## split()
