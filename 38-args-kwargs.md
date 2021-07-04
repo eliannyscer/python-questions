@@ -10,7 +10,7 @@ In other words we can pass a variable number of `arguments` to a `function` usin
 
 * Allows you to take  more arguments than the number of formal arguments that you previously defined.
 
-* Using the `*`, the variable that we associate with the * becomes an iterable.
+* Using the `*`, the variable that we associate with the `*` becomes an iterable.
 
 `Example:`
 
