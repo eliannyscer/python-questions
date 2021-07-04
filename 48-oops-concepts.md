@@ -2,7 +2,7 @@
 
 Yes, like other general purpose programming languages`(Java, C++. C#, Ruby)`, Python is also an `object-oriented` language. It allows us to design programs using classes and objects.
 
-The object is related to real-word entities such as book, house, pencil, etc. The oops concept focuses on writing the reusable code.
+The object is related to real-word entities such as book, house, pencil, etc. The OOP's concept focuses on writing the reusable code.
 
 ## Additional information
 
