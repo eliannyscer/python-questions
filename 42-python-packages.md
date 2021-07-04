@@ -18,4 +18,4 @@ Suppose that you need to develop a large application.The app will have many modu
 
 [Python packages](https://www.pythontutorial.net/python-basics/python-packages/)
 
-[Modulo and _Init_](https://www.tutorialsteacher.com/python/python-package)
+[Module and _Init_](https://www.tutorialsteacher.com/python/python-package)
