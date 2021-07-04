@@ -41,7 +41,7 @@ TypeError: split() missing 1 required positional argument: 'string'
 
 This function find all the substring where  a certain regular expression matches and then replace them with a different string.
 
-`Syntax`: - re.sub(pattern, repl, string, count=0, flags=0). `count` and `flags` are optionals.
+`Syntax`: - `re.sub(pattern, repl, string, count=0, flags=0)`. `count` and `flags` are optionals.
 
 ```python
 import re
