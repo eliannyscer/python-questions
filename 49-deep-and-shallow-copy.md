@@ -1,6 +1,6 @@
 # What is the difference between deep and shallow copy?
 
-![alt text](https://miro.medium.com/max/1616/1*600VH4fZWf3oJB2EaZAPjg.png)
+![Shallow and deep copy](https://miro.medium.com/max/1616/1*600VH4fZWf3oJB2EaZAPjg.png)
 
 ## Shallow copies
 
