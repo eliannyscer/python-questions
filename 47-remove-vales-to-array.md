@@ -29,7 +29,7 @@ list.pop(2)
 print(list)
 
 # Output:
-['Hello', 'Labas', 'Hola']
+['Hello', 'Labukas', 'Hola']
 ```
 
 `Example` - Return the deleted value:
