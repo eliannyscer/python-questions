@@ -12,7 +12,7 @@ import
 
 ## split()
 
-This function splits the string.It should be imported before using it in the program.
+This function splits the string. It should be imported before using it in the program.
 
 `Example-1:`
 
