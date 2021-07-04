@@ -11,7 +11,7 @@
 `Multithreading` - It is defined as the ability of a processor to execute multiple threads concurrently.
 Python has a multi-threading package but if you want to multi-thread to speed your code up then it’s usually not a good idea to use it.
 
-`What is Thread?` - It is a sequence of instructions that operating system executes independently. Using thread improves execution time, and is very useful when we need to perform multiple tasks at the same time
+`What is Thread?` - It is a sequence of instructions that operating system executes independently. Using several threads in parallel we can improves execution time and can be very useful when we need to perform multiple tasks at the same time.
 
 ## References
 
