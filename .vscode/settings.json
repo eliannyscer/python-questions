@@ -12,5 +12,9 @@
         "randint",
         "riented",
         "rogramming"
+        "builtins",
+        "docstrings",
+        "kwargs",
+        "subn"
     ]
 }
