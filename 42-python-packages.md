@@ -12,7 +12,7 @@ Suppose that you need to develop a large application.The app will have many modu
 
 `Module` - It is a `.py` file containing Python statements and definitions.
 
-`__init__.py` - It is essential for the folder to be recognized by Python as a package. Usually is empty
+`__init__.py` - It is essential for the folder to be recognized by Python as a package and usually it is empty.
 
 ## References
 
