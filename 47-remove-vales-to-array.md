@@ -24,7 +24,7 @@ We can remove the element at the specified index and get the value of that eleme
 `Example` - Delete a value using index:
 
 ```python
-list = [ "Hello", "Labas", "Hallo", "Hola"]
+list = [ "Hello", "Labukas", "Hallo", "Hola"]
 list.pop(2)
 print(list)
 
