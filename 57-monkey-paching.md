@@ -1,7 +1,8 @@
 # What is monkey patching in Python?
 
-It is a dynamic(Run-time) technique in Python by which you can modify the behavior of an existing class or module at run-time.
-this means that monkey patch is a piece of code that extends or modifies other code (at runtime).
+It is a dynamic(Run-time) technique in Python by which you can modify the behavior of an existing class or module.
+
+`In short words refers to dynamic modifications of a class or module at run-time`.
 
 Monkey patching can only be done in dynamic languages,
 
