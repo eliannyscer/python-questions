@@ -4,7 +4,7 @@ It is a dynamic(Run-time) technique in Python by which you can modify the behavi
 
 `In short words refers to dynamic modifications of a class or module at run-time`.
 
-Monkey patching can only be done in dynamic languages,
+Monkey patching can only be done in dynamic languages.
 
 `Example` - Monkey Patching Python Class:
 
