@@ -2,7 +2,7 @@
 
 `Encapsulation` - Restrict the access to methods or variables. This can prevent the data from being modified or accessing accidentally, but not intentionally.
 
-The private attributes and methods are not really hidden, they’re renamed adding `_name` in the beginning of their name.The method can actually be called.
+The private attributes and methods are not really hidden, they’re renamed adding `_name` in the beginning of their name. The method can actually be called.
 
 `Example:`
 
