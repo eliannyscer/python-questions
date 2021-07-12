@@ -31,6 +31,6 @@ updating software
 driving
 ```
 
-## References
+## Reference
 
 [Encapsulation](https://pythonspot.com/encapsulation/)
