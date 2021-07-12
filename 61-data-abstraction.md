@@ -1,10 +1,10 @@
 # How do you do data abstraction in Python?
 
-Data Abstraction is providing only the required details and hiding the implementation from the world. It can be achieved in Python by using interfaces and abstract classes.
+* Data Abstraction is providing only the required details and hiding the implementation from the world. It can be achieved in Python by using interfaces and abstract classes.
 
-The user is only able to view basic functionalities while the internal detail are hidden.
+* The user is only able to view basic functionalities while the internal detail are hidden.
 
-To declare an Abstract class, we firstly need to import the `abc` module.
+* To declare an Abstract class, we firstly need to import the `abc` module.
 
 `Example:`
 
