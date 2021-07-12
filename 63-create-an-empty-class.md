@@ -5,10 +5,10 @@ To write an empty class we use the `pass` statement, it is a special statement i
 `Example:`
 
 ```python
-class Geeks:
+class Ellie:
     pass
   
-obj = Geeks()
+obj = Ellie()
 print(obj)
 
 #Output:
