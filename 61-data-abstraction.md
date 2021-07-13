@@ -25,3 +25,5 @@ The point is that we manage the complexity of the car (or any other complex syst
 [Abstraction](https://www.360digitalgyan.com/phow-do-you-do-data-abstraction-in-pythonp)
 
 [Abstraction examples](https://www.askpython.com/python/oops/abstraction-in-python)
+
+[The four pillars of object orientation](https://www.freecodecamp.org/news/four-pillars-of-object-oriented-programming/)

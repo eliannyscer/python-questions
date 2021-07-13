@@ -19,3 +19,5 @@ print(len([10, 20, 30]))
 ## Reference
 
 [Polymorphism definition and examples](https://www.geeksforgeeks.org/polymorphism-in-python/)
+
+[The four pillars of object orientation](https://www.freecodecamp.org/news/four-pillars-of-object-oriented-programming/)

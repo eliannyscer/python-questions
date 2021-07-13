@@ -55,3 +55,5 @@ Karl Olsen
 [Inheritance](https://www.geeksforgeeks.org/inheritance-in-python/)
 
 [Example](https://www.w3schools.com/python/python_inheritance.asp)
+
+[The four pillars of object orientation](https://www.freecodecamp.org/news/four-pillars-of-object-oriented-programming/)
