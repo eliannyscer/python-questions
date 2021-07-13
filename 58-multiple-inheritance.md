@@ -1,6 +1,6 @@
 # Does python support multiple inheritance?
 
-Yes,Python supports multiple inheritance.
+Yes, Python supports multiple inheritance.
 
 A `class` can be  derived from more than one `base class`, this is called multiple Inheritance. The features of all the base classes are inherited into the derived class (like in C++).
 
