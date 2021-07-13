@@ -27,7 +27,7 @@ obj = Student("python",30,7777)
 
 `Public access:` All the variables and methods (member functions) in python are by default public. Any instance variable in a class followed by the `self` keyword ie. `self.var_name` are public accessed.
 
-`Private access:` Private members of a class (variables or methods) are those members which are `only accessible inside the class`. We cannot use private members outside of class.
+`Private access:` Private members of a class (variables or methods) are those members which are `only accessible inside the class`. We cannot use private members outside of class. The syntax we follow to make any variable private is to write variable name followed by a double underscore (__) ie. `__varName`.
 
 `Protected access:` This are restricted to be used only by the member functions and class members of the same class. And also it can be accessed or inherited by its derived class(child class). We can modify the values of protected variables of a class. The syntax we follow to make any variable protected is to write variable name followed by a single underscore (_) ie. `_varName`.
 
