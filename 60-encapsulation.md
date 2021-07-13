@@ -24,7 +24,7 @@ class Car:
 
 red_car = Car()
 red_car.drive()
-#re_car.__updateSoftware()  not accessible from object.
+#re_car.__updateSoftware() not accessible from object.
 
 # Output:
 updating software
