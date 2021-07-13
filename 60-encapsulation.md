@@ -6,7 +6,7 @@ The private attributes and methods are not really hidden, they’re renamed addi
 
 `Example:`
 
-We create a class `Car` which has two methods:  `drive()` and `updateSoftware()`.  When a `car` object is created, it will call the private methods `__updateSoftware()`.  
+We create a class `Car` which has two methods:  `drive()` and `updateSoftware()`. When a `car` object is created, it will call the private methods `__updateSoftware()`.  
 
 This function cannot be called on the object directly, only from within the class.
 
