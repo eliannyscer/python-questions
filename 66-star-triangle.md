@@ -60,7 +60,7 @@ for e in range(1, 11):
            # # # # # # # # # # 
 ```
 
-## Reference
+## References
 
 [Program to create equilateral triangle](https://www.w3schools.in/python-programs/python-program-to-creating-an-equilateral-triangle-pyramid-pattern/)
 
