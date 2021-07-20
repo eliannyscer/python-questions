@@ -19,31 +19,29 @@
 `Example:`
 
 ```python
-e = int(input("Enter length: "))
+length = int(input("Enter length: "))
 #first element of series
-l = 0  
+first_element = 0  
 #second element of series                                      
-i=1                                       
-if e<=0:
-    print("The requested series is",l)
+second_element=1                                       
+if length<=0:
+    print("The requested series is",first_element)
 else:
-    print(l,i,end=" ")
-    for x in range(2,e):
-        next=l+i                           
+    print(first_element,second_element,end=" ")
+    for x in range(2,length):
+        next=first_element+second_element                           
         print(next,end=" ")
-        l = i
-        i = next
+        first_element = second_element
+        second_element = next
 ```
 
-`Output:`
+`Output` - Using the number 8 as input:
 
 ```text
-# Using the number 8 as input
 0 1 1 2 3 5 8 13
-
-# Using a negative number:
-The requested series is 0
 ```
+
+Using a negative number the requested series is `0`.
 
 ## References
 
