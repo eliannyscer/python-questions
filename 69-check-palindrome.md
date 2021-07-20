@@ -40,3 +40,5 @@ In this method user take a character of string one by one and store in an empty 
 ## Reference
 
 [Examples](https://www.geeksforgeeks.org/python-program-check-string-palindrome-not/)
+
+[Palindrome words](https://www.rd.com/list/palindromes-list/)
