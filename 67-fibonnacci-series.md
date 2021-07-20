@@ -20,16 +20,16 @@
 
 ```python
 e = int(input("Enter length: "))
-#first element of series
-l = 0  
-#second element of series                                      
-i=1                                       
+# First element of series
+l = 0
+# Second element of series
+i=1
 if e<=0:
     print("The requested series is",l)
 else:
     print(l,i,end=" ")
     for x in range(2,e):
-        next=l+i                           
+        next=l+i
         print(next,end=" ")
         l = i
         i = next
