@@ -1,6 +1,6 @@
 # Write a program in Python to check if a sequence is a Palindrome
 
-A string is said to be palindrome if the reverse of the string is the same as string.
+A string is said to be palindrome if the reverse of the string is the same string.
 
 `Example:`
 
