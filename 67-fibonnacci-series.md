@@ -1,6 +1,6 @@
 # Write a program to produce Fibonacci series in Python
 
-`What is Fibonacci Series?` - It is a series of numbers formed by the sum of two  the two preceding numbers in the series.
+`What is Fibonacci Series?` - It is a series of numbers formed by the sum of the two preceding numbers in the series.
 
 ```python
  0,1,1,2,3,5
