@@ -27,7 +27,7 @@ print(row)
 
 `IMDb` - It is an online database of information related to films, television programs, home videos, video games, and streaming content online – including cast, production crew and personal biographies, plot summaries, trivia, ratings, and fan and critical reviews.
 
-You can scrap or extract data from IMDb website.Just you need to go to the detailed page of any movie, open the Parsers extension and click on the data you want to extract. 
+You can scrap or extract data from IMDb website.Just you need to go to the detailed page of any movie, open the Parsers extension and click on the data you want to extract.
 
 You can select several types of data on the page, for example: title movies, duration, release date, Image URL, description. Just click Add New Field. Next Start data extraction in the Parsers extension.
 
