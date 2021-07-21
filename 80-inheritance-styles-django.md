@@ -6,7 +6,7 @@
 
 - `Proxy models:` You can use this model, If you only want to modify the Python level behavior of the model, without changing the model’s fields.
 
-## Reference
+## References
 
 [Django inheritance styles with examples](https://medium.com/@lokeshsharma596/model-inheritance-styles-in-django-698296f5de06)
 

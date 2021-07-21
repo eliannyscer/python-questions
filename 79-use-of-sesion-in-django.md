@@ -4,7 +4,7 @@ In Django, the session framework enables you to store and retrieve arbitrary dat
 
 ![Django session](https://www.edureka.co/blog/wp-content/uploads/2017/06/Django-Framework-Python-Interview-Questions-Edureka.png)
 
-## Reference
+## References
 
 [Use of session framework in Django](https://www.onlineinterviewquestions.com/what-is-the-use-of-session-framework-in-django/)
 
