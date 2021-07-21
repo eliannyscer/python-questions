@@ -14,3 +14,5 @@ Templates are mainly text files. They can create any text-based formats such as 
 [Django templates](https://intellipaat.com/community/40590/what-do-django-templates-mainly-consist-of)
 
 [Django features](https://www.educba.com/django-architecture/)
+
+[Top 15 Django questions and answers](https://career.guru99.com/top-16-django-interview-questions/)
