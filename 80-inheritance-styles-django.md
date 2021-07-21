@@ -9,3 +9,5 @@
 ## Reference
 
 [Django inheritance styles with examples](https://medium.com/@lokeshsharma596/model-inheritance-styles-in-django-698296f5de06)
+
+[Top 15 Django questions and answers](https://career.guru99.com/top-16-django-interview-questions/)
