@@ -27,5 +27,3 @@ print (list)
 [Different kinds of sorting algorithm](https://realpython.com/sorting-algorithms-python/#the-importance-of-sorting-algorithms-in-python)
 
 [Difference between sorted() and sort()](https://www.geeksforgeeks.org/python-difference-between-sorted-and-sort/)
-
-
