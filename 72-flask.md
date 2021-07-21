@@ -29,7 +29,6 @@ Some of the most important benefits are the following:
 
 It  is a code library that makes a developer's life easier when building reliable, scalable, and maintainable web applications by providing reusable code or extensions for common operations.
 
-
 ## References
 
 [Flask definition and benefits](https://www.i2tutorials.com/explain-what-flask-is-and-its-benefits/)
