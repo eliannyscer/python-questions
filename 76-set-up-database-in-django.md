@@ -4,7 +4,7 @@ You can use the command edit `mysite/setting.py`, it is a normal python module w
 
 Django uses `SQLite` by default, it is easy for Django users as such it won't require any other type of installation. In the case your database choice is different that you have to the following keys in the DATABASE `default` item to match your database connection settings.
 
-- `Engines:` you can change database by using `django.db.backends.sqlite3 , django.db.backeneds.mysql, django.db.backends.postgresql_psycopg2, django.db.backends.oracle` and so on.
+- `Engines:` you can change database by using django.db.backends.sqlite3 , django.db.backeneds.mysql, django.db.backends.postgresql_psycopg2, django.db.backends.oracle and so on.
 - `Name:` The name of your database. If you are using `SQLite` as your database, in that case database will be a file on your computer, name should be a full absolute path, including file name of that file.
 - If you are not choosing `SQLite` as your database then settings like password, host, user, etc. must be added.
 
@@ -21,7 +21,7 @@ DATABASES = {
 }
 ```
 
-## Reference
+## References
 
 [Top 15 Django questions and answers](https://career.guru99.com/top-16-django-interview-questions/)
 
