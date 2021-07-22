@@ -4,6 +4,8 @@
 
 * It is a collection which is ordered, changeable and does not allow duplicates.
 
+* Dictionaries are created by specifying keys and values.
+
 `Example-1` - Printing 1 value:
 
 ```python
