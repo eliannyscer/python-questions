@@ -35,7 +35,7 @@ print(percentile)
 
 `Return`:nth Percentile of the array (a scalar value if axis is none)or array with percentile values along specified axis.
 
-## Reference
+## References
 
 [Code to calculate percentiles](https://stackoverflow.com/questions/2374640/how-do-i-calculate-percentiles-with-python-numpy)
 
