@@ -1,9 +1,12 @@
 # Q92. Which one of these is floor division?
 
-A) /
-B) //
-C) %
-D) None of the mentioned
+`A)` /
+
+`B)` //
+
+`C)` %
+
+`D)` None of the mentioned
 
 `Answer:` B) //
 
