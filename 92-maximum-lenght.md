@@ -8,7 +8,7 @@
 
 `D)` None of the above.
 
-`Answer:` "D". None of the above because identifiers are [unlimited](https://docs.python.org/2/reference/lexical_analysis.html#identifiers) in length.
+`Answer: "D". None of the above because identifiers are [unlimited](https://docs.python.org/2/reference/lexical_analysis.html#identifiers) in length.`
 
 ## Additional information
 
