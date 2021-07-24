@@ -1,6 +1,6 @@
 # Explain what Flask is and its benefits
 
-Flask is a web framework, written in Python. It allows you to build a web application by providing tools, libraries, and technologies. This web application will be a web page, a wiki, or a big web-based calendar application or commercial website.
+Flask is a web framework, written in Python. It allows you to build a web application by providing tools, libraries, and technologies. This web application can be a web page, a wiki, or a big web-based calendar application or commercial website.
 
 ## The benefit of flask
 
