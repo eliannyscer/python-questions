@@ -39,7 +39,7 @@ print(number_1//number_2)
 
 The operator `/` returns float values.
 
-## Reference
+## References
 
 [Python floor division](https://www.pythontutorial.net/advanced-python/python-floor-division/)
 
