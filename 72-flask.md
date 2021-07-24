@@ -25,6 +25,10 @@ Some of the most important benefits are the following:
 
 ## Additional information
 
+What mean pythonic?
+
+There is no official definition.Pythonic code follows the normally accepted conventions of the Python community, and uses the language in a way that follows the founding philosophy." - Derek D.
+
 `What is a Web Framework?`
 
 It  is a code library that makes a developer's life easier when building reliable, scalable, and maintainable web applications by providing reusable code or extensions for common operations.
@@ -34,3 +38,6 @@ It  is a code library that makes a developer's life easier when building reliabl
 [Flask definition and benefits](https://www.i2tutorials.com/explain-what-flask-is-and-its-benefits/)
 
 [What is a Web Framework?](https://opensource.com/article/18/4/flask)
+
+[Pythonic](https://dev.to/ezzy1337/a-pythonic-guide-to-solid-design-principles-4c8i)
+
