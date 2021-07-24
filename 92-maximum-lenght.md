@@ -1,12 +1,12 @@
 # What is the maximum possible length of an identifier?
 
-`A)` 31 characters
+`A)` 31 characters.
 
-`B)` 63 characters
+`B)` 63 characters.
 
-`C)` 79 characters
+`C)` 79 characters.
 
-`D)` None of the above
+`D)` None of the above.
 
 `Answer:` "D". None of the above because identifiers are [unlimited](https://docs.python.org/2/reference/lexical_analysis.html#identifiers) in length.
 
