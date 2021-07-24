@@ -8,7 +8,7 @@
 
 `D)` None of the mentioned.
 
-`Answer: B) //´
+`Answer: B) //`
 
 You use floor division operator `//` or the `floor()` function of the math module to get the floor division of two integers. It returns floor value for both integer and floating point arguments.
 
