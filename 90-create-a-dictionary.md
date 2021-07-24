@@ -21,7 +21,7 @@ What is a dictionary?
 
 - Dictionaries are created by specifying keys and values.
 
-## Reference
+## References
 
 [Dictionary definition and examples](https://www.w3schools.com/python/python_dictionaries.asp)
 
