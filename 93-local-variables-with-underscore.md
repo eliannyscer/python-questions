@@ -2,11 +2,11 @@
 
 `A)` They are used to indicate a private variables of a class.
 
-`B)` they confuse the interpreter.
+`B)` They confuse the interpreter.
 
-`C)` they are used to indicate global variables.
+`C)` They are used to indicate global variables.
 
-`D)` they slow down execution.
+`D)` They slow down execution.
 
 `Answer: A. They are used to indicate a private variable of a class.`
 
