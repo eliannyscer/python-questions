@@ -8,7 +8,7 @@ NumPy Package is better than Python Lists in the following ways:
 - It provides `more functionality` than the inbuilt Python List.
 - Many `vector and matrix` operations are available in Numpy for `free`.
 - It is Open Source.
-- Consumes less memory.
+- Consumes `less` memory.
 
 ## Additional information
 
