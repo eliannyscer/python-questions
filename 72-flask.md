@@ -25,7 +25,7 @@ Some of the most important benefits are the following:
 
 ## Additional information
 
-What mean pythonic?
+`What mean pythonic?`
 
 There is no official definition.Pythonic code follows the normally accepted conventions of the Python community, and uses the language in a way that follows the founding philosophy." - Derek D.
 
