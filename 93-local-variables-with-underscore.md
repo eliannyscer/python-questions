@@ -8,7 +8,7 @@
 
 `D)` they slow down execution.
 
-`Answer:` A. They are used to indicate a private variable of a class.
+`Answer: A. They are used to indicate a private variable of a class.`
 
 As Python has no concept of private variables, leading underscores are used to indicate variables that must not be accessed from outside the class.
 
