@@ -3,7 +3,7 @@
 NumPy Package is better than Python Lists in the following ways:
 
 - The arrays created with Numpy package are `more compact` than Python Lists.
-- Fast as compared to the Python List.
+- `Fast` as compared to the Python List.
 - The arrays created in Numpy are more `efficient and convenient` to use.
 - It provides `more functionality` than the inbuilt Python List.
 - Many `vector and matrix` operations are available in Numpy for `free`.
