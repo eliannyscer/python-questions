@@ -14,6 +14,6 @@ Be sure to replace `URL` with the proper web address of the page or site whose c
 http://webcache.googleusercontent.com/search?q=cache:eliprogramming.com
 ```
 
-## References
+## Reference
 
 [Get the Google cache](https://technicalmasterblog.wordpress.com/2018/08/28/how-can-you-get-the-google-cache-age-of-any-url-or-web-page/)
