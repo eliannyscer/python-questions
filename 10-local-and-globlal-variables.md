@@ -90,6 +90,6 @@ calculation()
 
 `Note:` A local variable can't access to a global variable.
 
-## References
+## Reference
 
 [Global and local variables](https://www.geeksforgeeks.org/global-local-variables-python/)
