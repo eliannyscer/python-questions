@@ -1,4 +1,6 @@
-# To open a file c:scores.txt for writing, we use:
+# Processing modes
+
+`To open a file c:scores.txt for writing, we use:`
 
 `A)` file = open(“c:scores.txt”, “r”)
 
@@ -8,7 +10,7 @@
 
 `D)` file = open(file = “c:scores.txt”, “o”)
 
-`Answer: B.` The "w" is used to indicate that file is in write-only mode, this mean that you open for writing.
+`Answer: B`. The "w" is used to indicate that file is in write-only mode, this mean that you open for writing.
 
 ## References
 
