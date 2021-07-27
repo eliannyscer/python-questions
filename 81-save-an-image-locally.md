@@ -1,4 +1,4 @@
-# How To Save An Image Locally Using Python Whose URL Address I Already Know?
+# How to save an image locally using python whose URL address i already know?
 
 We will use the following code to save an image locally from an URL address:
 
