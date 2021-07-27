@@ -8,7 +8,7 @@
 
 `D)` When an exception occurs into except block.
 
-`Answer: C). When no exception occurs.`
+`Answer: C. When no exception occurs.`
 
 ## Additional information
 
