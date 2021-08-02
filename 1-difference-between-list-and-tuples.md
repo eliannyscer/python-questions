@@ -20,7 +20,7 @@ print(supermarket_list)
 
 ## TUPLES
 
-`Type` - Are immutable, if you try to modify as a result you will have an error. For exampleif you try to delete some item you will get an error instead yu have to assign it to a new Tuple. 
+`Type` - Are immutable, if you try to modify as a result you will have an error. For example if you try to delete some item you will get an error instead yu have to assign it to a new Tuple. 
 
 `Iteration` - It is faster than list.
 
