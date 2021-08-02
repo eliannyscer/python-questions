@@ -29,7 +29,7 @@ print(supermarket_list)
 `Example:`
   
 ```python3
-tuple = ("Cereal", "bread", "avocado", "beef")
+supermarket_list = ("Cereal", "bread", "avocado", "beef")
 print(tuple)
 
 # Output:
