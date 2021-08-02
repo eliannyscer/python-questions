@@ -20,7 +20,7 @@ print(supermarket_list)
 
 ## TUPLES
 
-`Type` - Are immutable, if you try to modify as a result you will have an error.
+`Type` - Are immutable, if you try to modify as a result you will have an error. For exampleif you try to delete some item you will get an error instead yu have to assign it to a new Tuple. 
 
 `Iteration` - It is faster than list.
 
@@ -41,3 +41,9 @@ print(tuple)
 [Differences](https://www.tutorialspoint.com/difference-between-list-and-tuples-in-python)
 
 [Similarities](https://www.tutorialspoint.com/What-are-the-differences-and-similarities-between-tuples-and-lists-in-Python)
+
+[How to add Elements to a List in Python]https://www.journaldev.com/33182/python-add-to-list
+
+[How to add new items to tuple in Python](https://www.codespeedy.com/add-new-items-to-tuple-in-python/)
+
+[Remove item from a tuple](https://www.tutorialgateway.org/python-program-to-remove-an-item-from-tuple/)
