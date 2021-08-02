@@ -42,7 +42,7 @@ print(tuple)
 
 [Similarities](https://www.tutorialspoint.com/What-are-the-differences-and-similarities-between-tuples-and-lists-in-Python)
 
-[How to add Elements to a List in Python]https://www.journaldev.com/33182/python-add-to-list
+[How to add Elements to a List in Python](https://www.journaldev.com/33182/python-add-to-list)
 
 [How to add new items to tuple in Python](https://www.codespeedy.com/add-new-items-to-tuple-in-python/)
 
