@@ -16,10 +16,11 @@ Python does not have a way to add multiline comments because it  doesn’t have 
 In Python you can create multiline comments like this:
 
 ```python
-# This is the way
-# to add multiple
-# multiple lines of code
+# Adding
+# multiple
+# lines of code
 ```
+When you are using this kind of comment you only need use capital letter in the firts line of code.
 
 ## Reference
 
