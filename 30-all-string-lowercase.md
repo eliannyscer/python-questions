@@ -5,8 +5,8 @@
 * Syntax - `string.lower()`
 
 ```python
-txt = "A - B - C - D - E - F"
-x = txt.lower()
+text = "A - B - C - D - E - F"
+x = text.lower()
 print(x) 
 
 # Output:
